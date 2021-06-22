@@ -1,3 +1,8 @@
+---
+title: "Rsprague81's Blog"
+date: 2021-06-21
+---
+
 I am learning how to use Github and Git with the learning Bot on Githubs learing pages. 
 So far I have learned alot and I have only just started
 This is all new to me
